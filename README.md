@@ -1,6 +1,6 @@
 # night2day
 to do list 
-turn form one time stamp in one folder to use 1 folder many timestamps
+turn from one time stamp in one folder to use 1 folder many timestamps
 
 # Get started- updated for NATE thesis process ( keep updating)
 The `main.py` file (probably found in the `READY` folder) can be run as a program
