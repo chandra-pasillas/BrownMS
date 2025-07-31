@@ -2,7 +2,10 @@
 to do list 
 turn from one time stamp in one folder to use 1 folder many timestamps
 
-# Get started- updated for NATE thesis process ( keep updating)
+# Step 1 get the data to where/how you are pulling thigns from
+
+
+# Get started- updated for ALEXXIS thesis process ( keep updating)
 The `main.py` file (probably found in the `READY` folder) can be run as a program
 from the command line. For example, if the path to main is `/a/b/c/night2day/READY/main.py`
 then we can run the program and ask for its help message like:
